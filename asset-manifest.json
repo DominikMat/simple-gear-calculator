@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/simple-gear-calculator/static/css/main.50316b37.css",
-    "main.js": "/simple-gear-calculator/static/js/main.9d080396.js",
+    "main.js": "/simple-gear-calculator/static/js/main.a6dc58a2.js",
     "static/js/453.3540d256.chunk.js": "/simple-gear-calculator/static/js/453.3540d256.chunk.js",
     "index.html": "/simple-gear-calculator/index.html",
     "main.50316b37.css.map": "/simple-gear-calculator/static/css/main.50316b37.css.map",
-    "main.9d080396.js.map": "/simple-gear-calculator/static/js/main.9d080396.js.map",
+    "main.a6dc58a2.js.map": "/simple-gear-calculator/static/js/main.a6dc58a2.js.map",
     "453.3540d256.chunk.js.map": "/simple-gear-calculator/static/js/453.3540d256.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50316b37.css",
-    "static/js/main.9d080396.js"
+    "static/js/main.a6dc58a2.js"
   ]
 }
